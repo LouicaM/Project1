@@ -1,5 +1,6 @@
-# Project1
-# Debian_Resp
+# Dokumentation von GitHub
+# Louica May
+# Git, GitHub, Linux
 
 ## Projekt Umgebung vorbereiten
 
